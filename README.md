@@ -6,10 +6,10 @@ This repository showcases how code is ran, such as python focused coursework.
 - GitHub
 
 ## 📁 Files Used
-Relevant Files
+| File | Description |
 |------|-------------|
-| `[File1.ext]` | [What it is] |
-| `[File2.ext]` | [What it is] |
+| `[File1.ext]` | [Python Work] |
+| `[File2.ext]` | [Python Work] |
 
 ## ▶️ How to Run Program
 1. Download or clone this repository
